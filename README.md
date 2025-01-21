@@ -1,6 +1,6 @@
 # Vending Machines’ Network
 
-This repository contains the project details for the **Vending Machines’ Network**, completed as part of the Semester 6 EN3251 - Internet of Things module. The project focuses on creating a connected network of vending machines to improve inventory management, customer convenience, and operational efficiency using IoT technologies.
+This repository contains the project details for the **Vending Machines’ Network**, completed as part of the Semester 5 EN3251 - Internet of Things module. The project focuses on creating a connected network of vending machines to improve inventory management, customer convenience, and operational efficiency using IoT technologies.
 
 ---
 
